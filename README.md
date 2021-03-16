@@ -1,4 +1,4 @@
-## Welcome Mr. Ware's Page
+## Welcome to Mr. Ware's Page
 
 You can use the [editor on GitHub](https://github.com/dware64/dware64.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
